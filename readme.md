@@ -5,7 +5,7 @@
 使用方式：npm i sj-jsonschema-table-json --save
 
 ```typescript
-import {json2Schema,schema2Json,schema2Displya,table2Schema,schema2Table}
+import {json2Schema,schema2Json,schema2Displya,table2Schema,schema2Table} from 'sj-jsonschema-table-json'
 
 // 这是一个json-schema的结构
 let a = {"sex":{
