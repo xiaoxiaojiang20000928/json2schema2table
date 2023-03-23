@@ -1,0 +1,12 @@
+{
+  "name": "sj-jsonschema-table-json",
+  "version": "1.0.0",
+  "description": "a tool for json schema 2 json 2 tableComponentTree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["schema","json","jsonschema","tableTree"],
+  "author": "stephenJiang",
+  "license": "ISC"
+}
